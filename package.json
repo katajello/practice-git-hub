@@ -1,5 +1,6 @@
 {
-  "name": "practice",
+
+  "name": "practice-git-hub",
   "version": "1.0.0",
   "description": "Lets Practice group git hub",
   "main": "index.js",
@@ -8,4 +9,3 @@
   },
   "author": "",
   "license": "ISC"
-}
